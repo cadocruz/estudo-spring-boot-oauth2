@@ -5,8 +5,8 @@ spring:
 
 facebook:
   client:
-    clientId: 326525514204596
-    clientSecret: 64adb2a108dde807c6dc3f92399b78af
+    clientId: 233668646673605
+    clientSecret: 33b17e044ee6a4fa383f46ec6e28ea1d
     accessTokenUri: https://graph.facebook.com/oauth/access_token
     userAuthorizationUri: https://www.facebook.com/dialog/oauth
     tokenName: oauth_token
@@ -17,8 +17,8 @@ facebook:
 
 github:
   client:
-    clientId: 7dad93a652e66f9cd330
-    clientSecret: 294b6937e16898ce320206d5ea21f98496b77226
+    clientId: bd1c0a783ccdd1c9b9e4
+    clientSecret: 1a9030fbca47a5b2c28e92f19050bb77824b5ad1
     accessTokenUri: https://github.com/login/oauth/access_token
     userAuthorizationUri: https://github.com/login/oauth/authorize
     clientAuthenticationScheme: form
